@@ -1,3 +1,3 @@
 # Hello-world
 
-Interested in C#, level: newbie :)
+Interested in C#, looking for code examples. level: newbie :)
